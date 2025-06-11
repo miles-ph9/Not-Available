@@ -1,2 +1,2 @@
 # IS247
-This repository is for coding assignments regarding HW and Lab Files for IS247 during Summer 2025 
+This Readme.md file is for the IS 247 Group Budgeting Project 
